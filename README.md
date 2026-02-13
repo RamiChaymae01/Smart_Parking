@@ -132,4 +132,5 @@ python client_app.py
 ```
 ![alt text](Img/Client.PNG)
 
+
 The client application: Displays available parking spaces in real time, Allows reservation submission, Interacts with the deployed smart contract
