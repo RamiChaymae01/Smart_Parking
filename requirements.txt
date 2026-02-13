@@ -1,0 +1,23 @@
+# Core scientific computing
+numpy>=1.24
+
+# Deep Learning / Vision
+torch>=2.0
+ultralytics>=8.0
+opencv-python>=4.8
+
+# Model export & inference
+onnx
+onnxruntime
+
+# Communication
+paho-mqtt
+
+# Blockchain interaction
+web3
+
+# Configuration & utilities
+pyyaml
+python-dotenv
+requests
+tqdm
