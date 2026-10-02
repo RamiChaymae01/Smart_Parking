@@ -149,4 +149,3 @@ Representative IOTA EVM testnet transactions are:
 - Reservation-linked slot-occupancy confirmation: `0x96e7bdfb2eaa1725ffa79270b06a04245152ae7a9da360128d2551afbeba8006`
 - No-show finalization: `0x9674525af9726afa45cfe154758817afbad700ddfe6d9976f0d4e5c04ba15706`
 
-The repository also contains the experiment scripts and the trained-model configuration used for the evaluations reported in the manuscript.
