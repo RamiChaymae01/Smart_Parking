@@ -136,3 +136,17 @@ The models are available on Hugging Face at: ChaymaeRami/Smart_Parking.
 
 The client application: Displays available parking spaces in real time, Allows reservation submission, Interacts with the deployed smart contract
 
+
+### 6.  Reproducibility
+
+The smart contract used for the IOTA EVM testnet experiments was deployed at:
+
+`0x645aDd21578B9fc69Cfbe38bf18F2698Bb449129`
+
+Representative IOTA EVM testnet transactions are:
+
+- Reservation: `0xe1510a4f707fd8d393fb3b2abec6f0ec0b241a51a248e6894f15169abb0163e9`
+- Reservation-linked slot-occupancy confirmation: `0x96e7bdfb2eaa1725ffa79270b06a04245152ae7a9da360128d2551afbeba8006`
+- No-show finalization: `0x9674525af9726afa45cfe154758817afbad700ddfe6d9976f0d4e5c04ba15706`
+
+The repository also contains the experiment scripts and the trained-model configuration used for the evaluations reported in the manuscript.
